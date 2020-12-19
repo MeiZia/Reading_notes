@@ -67,6 +67,7 @@ Begin the training:
 ### Notes部署的时候可能会遇到的问题。
 
 ## Files Includes With This Project:
+```
 ├── README.md
 ├── app.py
 ├── requirements.txt
@@ -80,4 +81,4 @@ Begin the training:
 │   ├── index
 │   └── js
 └── templates
-
+```
